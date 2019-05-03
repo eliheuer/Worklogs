@@ -1,4 +1,4 @@
-#+TITLE:     Worklog: Public Sans VF Mastering
+#+TITLE:     Worklog: El Messiri VF Mastering
 #+AUTHOR:    Eli H
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
@@ -6,18 +6,17 @@
 This file is formatted for use with [[https://en.wikipedia.org/wiki/Org-mode][Org-mode]].
 
 * PUBLIC SANS WORKLOG
-
 ** BASIC INFO
   RELEVANT LINKS:
-      https://github.com/google/fonts/pull/1934
-      https://github.com/uswds/public-sans
+     Origin:   https://github.com/eliheuer/El-Messiri
+     Upstream: https://github.com/Gue3bara/El-Messiri 
+     PR:       Nothing yet
   
   STATUS:
-      Fixing PR bot errors
+      Fixing build script
   
   NOTES:
-      1. PR Needs to be split in two 
-
+      1. None 
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 05 ****
@@ -57,9 +56,7 @@ This file is formatted for use with [[https://en.wikipedia.org/wiki/Org-mode][Or
 ***** :: check/production_glyphs_similarity
       NBD: Wont fix for now
 ***** :: check/unitsperem_strict
-      NBD: Wont fix for now
-     
-*** ITALIC
+      NBD: Wont fix for now  
 ** TODOS
 *** DONE [#A] Close old PR
     CLOSED: [2019-04-26 Fri 12:45]
@@ -68,18 +65,17 @@ This file is formatted for use with [[https://en.wikipedia.org/wiki/Org-mode][Or
     CLOSED: [2019-04-25 Thu 23:03]
 *** TODO [#A] PR Public Sans
 *** TODO [#A] PR Public Sans Italic
-** BUILD HELPERS
-*** FontBakery
-*** Addfont
-*** Build Commands
-*** Build Info
 ** BUILD STEPS
    ./BUILD.sh
        #!/bin/sh
        python3 sources/BUILD.py \
        --ttfautohint "-v --stem-width-mode=qsq" \
-       --googlefonts ~/Google/fonts/ofl/publicsans \
-
+       --googlefonts ~/Google/fonts/ofl/el \
+** BUILD HELPERS
+*** FontBakery
+*** Addfont
+*** Build Commands
+*** Build Info
 ** POST BUILD STEPS
 *** Glyph Rename Script
 *** Fix Fsselection
