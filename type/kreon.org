@@ -1,0 +1,40 @@
+#+TITLE:     Worklog: Kreon VF Mastering
+#+AUTHOR:    Eli H
+#+EMAIL:     elih@member.fsf.org
+#+LANGUAGE:  en
+
+* KREON
+** BASIC INFO
+   Latin typface.
+** RELEVANT LINKS
+   Origin:        https://github.com/eliheuer/kreon
+   Upstream:      https://github.com/googlefonts/kreon
+   Google Fonts:  https://fonts.google.com/specimen/Kreon
+   Old style PR:  https://github.com/google/fonts/pull/1736 
+   New style PR:  Nothing yet
+** WORK STATUS
+   Needs to be updated to a new style PR.
+** FONTBAKERY STATUS
+*** ROMAN
+**** FAILS 02 ****
+***** TODO :: check/canonical_filename
+      NBD: Won't fix
+**** WARNS 02 ****
+***** :: check/production_glyphs_similarity
+      NBD
+***** :: check/unitsperem_strict
+      NBD
+** TODOS
+*** TODO [#A] Make a new style gf PR and close old style PR.
+** BUILD STEPS
+*** STEP 1: Run build script
+   ./BUILD.sh
+** BUILD HELPERS
+*** FontBakery
+*** Addfont
+*** Build Commands
+*** Build Info
+** POST BUILD STEPS
+*** Glyph Rename Script
+*** Fix Fsselection
+    gftools fix-fsselection Font-Regular.ttf --autofix

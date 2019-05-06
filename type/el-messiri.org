@@ -3,20 +3,17 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
-This file is formatted for use with [[https://en.wikipedia.org/wiki/Org-mode][Org-mode]].
-
-* PUBLIC SANS WORKLOG
+* EL MESSIRI
 ** BASIC INFO
-  RELEVANT LINKS:
-     Origin:   https://github.com/eliheuer/El-Messiri
-     Upstream: https://github.com/Gue3bara/El-Messiri 
-     PR:       Nothing yet
-  
-  STATUS:
-      Fixing build script
-  
-  NOTES:
-      1. None 
+   Arabic/Latin Typeface
+** RELEVANT LINKS
+   Origin:        https://github.com/eliheuer/El-Messiri
+   Upstream:      https://github.com/Gue3bara/El-Messiri 
+   GFonts:        https://fonts.google.com/specimen/El+Messiri
+   Old style PR:  None needed
+   New style PR:  https://github.com/google/fonts/pull/1961       
+** WORK STATUS
+   Fixing build script 
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 02 ****
@@ -33,7 +30,7 @@ This file is formatted for use with [[https://en.wikipedia.org/wiki/Org-mode][Or
       Glyph is from Unicode block: Private Use Area -- U+E000 to U+F8FF
       NBD: Won't fix for now
 **** WARNS 02 ****
-***** DONE :: check/production_glyphs_similarity
+***** DONE :: check/missing not def.
       CLOSED: [2019-05-03 Fri 07:52]
       Fixed in the source.
 ***** :: check/production_glyphs_similarity
@@ -41,9 +38,10 @@ This file is formatted for use with [[https://en.wikipedia.org/wiki/Org-mode][Or
 ***** :: check/unitsperem_strict
       NBD
 ** TODOS
-*** TODO [#A] Make new GF PR
+*** TODO [#A] Update GF PR with fixes
 ** BUILD STEPS
-   ./BUILD.sh
+*** STEP 1: Run Build Script
+    ./BUILD.sh
 ** BUILD HELPERS
 *** FontBakery
 *** Addfont

@@ -1,0 +1,40 @@
+#+TITLE:     Worklog: Orbitron VF Mastering
+#+AUTHOR:    Eli H
+#+EMAIL:     elih@member.fsf.org
+#+LANGUAGE:  en
+
+* ORBITRON
+** BASIC INFO
+   Latin SCI-FI style display typface.
+** RELEVANT LINKS
+   Origin:        https://github.com/eliheuer/orbitron-vf
+   Upstream:      https://github.com/theleagueof/orbitron
+   Google Fonts:  https://fonts.google.com/specimen/Orbitron
+   Old style PR:  https://github.com/google/fonts/pull/1743
+   New style PR:  None yet
+** WORK STATUS
+   No major issues, just needs a new style PR.
+** FONTBAKERY STATUS
+*** ROMAN
+**** FAILS 01 ****
+***** TODO :: check/canonical_filename
+      NBD: Won't fix
+**** WARNS 02 ****
+***** :: check/production_glyphs_similarity
+      NBD
+***** :: check/unitsperem_strict
+      NBD
+** TODOS
+*** TODO [#A] Close old PR and open a new style PR.
+** BUILD STEPS
+*** STEP 1: Run build script
+   ./BUILD.sh
+** BUILD HELPERS
+*** FontBakery
+*** Addfont
+*** Build Commands
+*** Build Info
+** POST BUILD STEPS
+*** Glyph Rename Script
+*** Fix Fsselection
+    gftools fix-fsselection Font-Regular.ttf --autofix

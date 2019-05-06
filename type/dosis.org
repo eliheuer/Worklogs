@@ -1,0 +1,41 @@
+#+TITLE:     Worklog: Dosis VF Mastering
+#+AUTHOR:    Eli H
+#+EMAIL:     elih@member.fsf.org
+#+LANGUAGE:  en
+
+* DOSIS
+  Dosis VF
+** BASIC INFO
+   Latin Typeface
+** RELEVANT LINKS
+   Origin:        https://github.com/eliheuer/dosis-vf
+   Upstream:      ???
+   GFonts:        https://fonts.google.com/specimen/Dosis
+   Old style PR:  https://github.com/google/fonts/pull/1733
+   New style PR:  None yet. 
+** WORK STATUS
+   Needs a new style PR made
+** FONTBAKERY STATUS
+*** ROMAN
+**** FAILS 01
+***** TODO :: check/canonical_filename
+      NBD: Won't fix
+**** WARNS 02
+***** TODO :: check/production_glyphs_similarity
+      NBD
+***** TODO :: check/unitsperem_strict
+      NBD
+** TODOS
+*** TODO [#A] Make a new style PR to replace old style PR
+** BUILD STEPS
+*** STEP 1: Run Build Script
+    ./BUILD.sh
+** BUILD HELPERS
+*** FontBakery
+*** Addfont
+*** Build Commands
+*** Build Info
+** POST BUILD STEPS
+*** Glyph Rename Script
+*** Fix Fsselection
+    gftools fix-fsselection Font-Regular.ttf --autofix

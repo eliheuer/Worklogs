@@ -1,0 +1,40 @@
+#+TITLE:     Worklog: Changa VF Mastering
+#+AUTHOR:    Eli H
+#+EMAIL:     elih@member.fsf.org
+#+LANGUAGE:  en
+
+* CHANGA
+** BASIC INFO
+   Arabic/Latin Typeface
+** RELEVANT LINKS
+   Origin:        https://github.com/eliheuer/changa-vf
+   Upstream:      https://github.com/etunni/Changa 
+   GFonts:        https://fonts.google.com/specimen/Changa
+   New style PR:  https://github.com/google/fonts/pull/1949 
+** WORK STATUS
+   New style PR made,
+   needs to be updated to fix a few issues. 
+** FONTBAKERY STATUS
+*** ROMAN
+**** FAILS 01
+***** TODO :: check/canonical_filename
+      NBD: Won't fix
+**** WARNS 02
+***** TODO :: check/production_glyphs_similarity
+      NBD
+***** TODO :: check/unitsperem_strict
+      NBD
+** TODOS
+*** TODO [#A] Update new style PR to fix issues
+** BUILD STEPS
+*** STEP 1: Run Build Script
+    ./BUILD.sh
+** BUILD HELPERS
+*** FontBakery
+*** Addfont
+*** Build Commands
+*** Build Info
+** POST BUILD STEPS
+*** Glyph Rename Script
+*** Fix Fsselection
+    gftools fix-fsselection Font-Regular.ttf --autofix

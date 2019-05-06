@@ -1,0 +1,41 @@
+#+TITLE:     Worklog: Averia VF Mastering
+#+AUTHOR:    Eli H
+#+EMAIL:     elih@member.fsf.org
+#+LANGUAGE:  en
+
+* Averia
+** BASIC INFO
+   Average of many fonts. 
+   Dev blog: http://iotic.com/averia/
+** RELEVANT LINKS
+   Origin:        https://github.com/eliheuer/averia-libre-vf
+   Upstream:      None, lost in HD failure.
+   New style PR:  Nothing yet
+   Old style PR:  Made but not updated
+** WORK STATUS
+   Still has some glyphs that need to be drawn,
+   working on this in the evenings. 
+** FONTBAKERY STATUS
+*** ROMAN
+**** FAILS 01
+***** TODO :: check/canonical_filename
+      NBD: Won't fix
+**** WARNS 02 
+***** :: check/production_glyphs_similarity
+      NBD
+***** :: check/unitsperem_strict
+      NBD
+** TODOS
+*** TODO [#A] Make new style GF PR
+** BUILD STEPS
+*** 1. RUN BUILD SCRIPT
+    ./BUILD.sh
+** BUILD HELPERS
+*** FontBakery
+*** Addfont
+*** Build Commands
+*** Build Info
+** POST BUILD STEPS
+*** Glyph Rename Script
+*** Fix Fsselection
+    gftools fix-fsselection Font-Regular.ttf --autofix

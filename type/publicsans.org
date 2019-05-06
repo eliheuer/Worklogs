@@ -3,21 +3,17 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
-This file is formatted for use with [[https://en.wikipedia.org/wiki/Org-mode][Org-mode]].
-
-* PUBLIC SANS WORKLOG
-
+* PUBLICSANS
 ** BASIC INFO
-  RELEVANT LINKS:
-      https://github.com/google/fonts/pull/1934
-      https://github.com/uswds/public-sans
-  
-  STATUS:
-      Fixing PR bot errors
-  
-  NOTES:
-      1. PR Needs to be split in two 
-
+   US Web Design Standards Typeface.
+** RELEVANT LINKS
+   Origin:        https://github.com/eliheuer/public-sans
+   Upstream:      https://github.com/uswds/public-sans
+   Google Fonts:  None (New font)
+   Old style PR:  None (New font)
+   New style PR:  https://github.com/google/fonts/pull/1934
+** WORK STATUS
+   New style PR made, just needs updates sujested by Marc
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 05 ****
@@ -58,16 +54,16 @@ This file is formatted for use with [[https://en.wikipedia.org/wiki/Org-mode][Or
       NBD: Wont fix for now
 ***** :: check/unitsperem_strict
       NBD: Wont fix for now
-     
 *** ITALIC
 ** TODOS
 *** DONE [#A] Close old PR
     CLOSED: [2019-04-26 Fri 12:45]
-
 *** DONE [#A] Make GF-mastering branch
-    CLOSED: [2019-04-25 Thu 23:03]
-*** TODO [#A] PR Public Sans
-*** TODO [#A] PR Public Sans Italic
+    CLOSED: [2019-05-06 Mon 14:25]
+
+*** TODO [#A] Split PRs
+**** TODO [#A] PR Public Sans
+**** TODO [#A] PR Public Sans Italic
 ** BUILD HELPERS
 *** FontBakery
 *** Addfont
