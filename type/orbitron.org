@@ -25,7 +25,10 @@
 ***** :: check/unitsperem_strict
       NBD
 ** TODOS
-*** TODO [#A] Close old PR and open a new style PR.
+*** DONE [#A] Close old PR and open a new style PR.
+    CLOSED: [2019-05-07 Tue 14:32]
+    Old PR: https://github.com/google/fonts/pull/1743
+    New PR: https://github.com/google/fonts/pull/1967
 ** BUILD STEPS
 *** STEP 1: Run build script
    ./BUILD.sh
@@ -38,3 +41,9 @@
 *** Glyph Rename Script
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
+** Notes
+*** DONE Pushed orbitron branch to google/fonts
+    CLOSED: [2019-05-07 Tue 11:06]
+    remote:      https://github.com/google/fonts/pull/new/orbitron
+    To github.com:google/fonts.git
+    * [new branch]        orbitron -> orbitron

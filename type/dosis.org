@@ -4,7 +4,6 @@
 #+LANGUAGE:  en
 
 * DOSIS
-  Dosis VF
 ** BASIC INFO
    Latin Typeface
 ** RELEVANT LINKS
@@ -26,7 +25,11 @@
 ***** TODO :: check/unitsperem_strict
       NBD
 ** TODOS
-*** TODO [#A] Make a new style PR to replace old style PR
+*** DONE [#A] Make a new style PR to replace old style PR
+    CLOSED: [2019-05-07 Tue 16:21]
+    I rebased the dosis-vf branch on eliheuer:fonts
+    Old PR: https://github.com/google/fonts/pull/1733
+    New PR: https://github.com/google/fonts/pull/1969
 ** BUILD STEPS
 *** STEP 1: Run Build Script
     ./BUILD.sh

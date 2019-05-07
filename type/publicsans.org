@@ -60,7 +60,6 @@
     CLOSED: [2019-04-26 Fri 12:45]
 *** DONE [#A] Make GF-mastering branch
     CLOSED: [2019-05-06 Mon 14:25]
-
 *** TODO [#A] Split PRs
 **** TODO [#A] PR Public Sans
 **** TODO [#A] PR Public Sans Italic
