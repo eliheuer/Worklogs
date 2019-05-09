@@ -25,8 +25,8 @@
 ***** :: check/unitsperem_strict
       NBD
 ** TODOS
-*** DONE [#A] Close old PR and open a new style PR.
-    CLOSED: [2019-05-07 Tue 14:32]
+*** DONE Close old PR and open a new style PR.
+    CLOSED: [2019-05-07 Tue 17:11]
     Old PR: https://github.com/google/fonts/pull/1743
     New PR: https://github.com/google/fonts/pull/1967
 ** BUILD STEPS
