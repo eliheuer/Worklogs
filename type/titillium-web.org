@@ -11,9 +11,13 @@
    Upstream:      https://github.com/eliheuer/titillium-web-vf
    Google Fonts:  https://fonts.google.com/specimen/Titillium+Web
    Old style PR:  https://github.com/google/fonts/pull/1806
-   New style PR:  None yet
+   New style PR:  Roman:  https://github.com/google/fonts/pull/1987
+                  Italic: https://github.com/google/fonts/pull/1988
+
 ** WORK STATUS
    Needs a new style PR
+** TODOS
+*** TODO [#A] Close old style PR and open a new style PR.
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 01 ****
@@ -24,8 +28,6 @@
       NBD
 ***** :: check/unitsperem_strict
       NBD
-** TODOS
-*** TODO [#A] Close old style PR and open a new style PR.
 ** BUILD STEPS
 *** STEP 1: Run build script
    ./BUILD.sh
@@ -38,3 +40,5 @@
 *** Glyph Rename Script
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
+** NOTES
+   foobar
