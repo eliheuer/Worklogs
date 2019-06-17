@@ -11,9 +11,13 @@
    Upstream:      https://github.com/theleagueof/orbitron
    Google Fonts:  https://fonts.google.com/specimen/Orbitron
    Old style PR:  https://github.com/google/fonts/pull/1743
-   New style PR:  None yet
+   New style PR:  https://github.com/google/fonts/pull/1967
 ** WORK STATUS
-   No major issues, just needs a new style PR.
+
+   Force pushed and responded to Marc, waiting for feedback now...
+
+   Looking over repo to make sure all metadata is good.
+   Still need to make upstream PR.
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 01 ****
