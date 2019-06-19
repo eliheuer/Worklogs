@@ -3,21 +3,27 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
+Last Updated: Wed Jun 19 18:19:29 EDT 2019 
+
 * ORBITRON
 ** BASIC INFO
+
    Latin SCI-FI style display typface.
+
 ** RELEVANT LINKS
+
    Origin:        https://github.com/eliheuer/orbitron-vf
    Upstream:      https://github.com/theleagueof/orbitron
    Google Fonts:  https://fonts.google.com/specimen/Orbitron
    Old style PR:  https://github.com/google/fonts/pull/1743
    New style PR:  https://github.com/google/fonts/pull/1967
+
 ** WORK STATUS
 
-   Force pushed and responded to Marc, waiting for feedback now...
+   [*] File name updated
+   [*] PR OK'd by Marc
+   [ ] Ready for merge 
 
-   Looking over repo to make sure all metadata is good.
-   Still need to make upstream PR.
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 01 ****
@@ -45,7 +51,7 @@
 *** Glyph Rename Script
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
-** Notes
+** NOTES
 *** DONE Pushed orbitron branch to google/fonts
     CLOSED: [2019-05-07 Tue 11:06]
     remote:      https://github.com/google/fonts/pull/new/orbitron
