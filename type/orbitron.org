@@ -2,9 +2,11 @@
 #+AUTHOR:    Eli H
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
+
 Last Updated: Wed Jun 19 18:19:29 EDT 2019 
-[*] Work Done
+[*] Marc says LGTM
 [ ] Merged
+
 * ORBITRON
 ** BASIC INFO
    Latin SCI-FI style display typface.
