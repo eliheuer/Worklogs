@@ -4,7 +4,7 @@
 #+LANGUAGE:  en
 
 Last Updated: Wed Jun 19 18:19:29 EDT 2019 
-[*] Marc says LGTM
+[*] Marc says OK
 [ ] Merged
 
 * ORBITRON
