@@ -22,7 +22,8 @@ Last Updated: Wed Jun 19 18:19:29 EDT 2019
 
    [*] File name updated
    [*] PR OK'd by Marc
-   [ ] Ready for merge 
+   [*] Ready for merge 
+   [ ] Merged 
 
 ** FONTBAKERY STATUS
 *** ROMAN
