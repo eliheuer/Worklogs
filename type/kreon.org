@@ -2,26 +2,20 @@
 #+AUTHOR:    Eli H
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
-
-Last Updated: Wed Jun 19 18:19:29 EDT 2019 
-
+Last Updated: Wed Jun 19 18:19:29 EDT 2019
+[ ] Work Done
+[ ] Merged
 * KREON
 ** BASIC INFO
-
    Latin typface.
-
 ** RELEVANT LINKS
-
    Origin:        https://github.com/eliheuer/kreon
    Upstream:      https://github.com/googlefonts/kreon
    Google Fonts:  https://fonts.google.com/specimen/Kreon
    Old style PR:  https://github.com/google/fonts/pull/1736 
    New style PR:  https://github.com/google/fonts/pull/1982
-
 ** WORK STATUS
-
    [ ] Need to review new style PR
-
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 02 ****
