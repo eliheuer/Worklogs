@@ -3,8 +3,10 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
-Last Updated: Wed Jun 19 18:19:29 EDT 2019
-[ ] Marc says OK
+Last Updated: Fri Jun 21 20:48:45 EDT 2019
+
+[*] Waiting for review
+[ ] Reviewer says OK
 [ ] Merged
 
 * KREON
@@ -17,7 +19,8 @@ Last Updated: Wed Jun 19 18:19:29 EDT 2019
    Old style PR:  https://github.com/google/fonts/pull/1736 
    New style PR:  https://github.com/google/fonts/pull/1982
 ** WORK STATUS
-   [ ] Need to review new style PR
+   [*] Make new style PR
+   [*] Waiting for review
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 02 ****
@@ -28,8 +31,6 @@ Last Updated: Wed Jun 19 18:19:29 EDT 2019
       NBD
 ***** :: check/unitsperem_strict
       NBD
-** TODOS
-*** TODO [#A] Make a new style gf PR and close old style PR.
 ** BUILD STEPS
 *** STEP 1: Run build script
    ./BUILD.sh
@@ -43,3 +44,6 @@ Last Updated: Wed Jun 19 18:19:29 EDT 2019
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
     
+** NOTES
+
+   1: Nothing here.

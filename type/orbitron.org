@@ -3,8 +3,10 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
-Last Updated: Wed Jun 19 18:19:29 EDT 2019 
-[*] Marc says OK
+Last Updated: Wed Jun 19 18:19:29 EDT 2019
+
+[*] Waiting for review
+[*] Reviewer says OK
 [ ] Merged
 
 * ORBITRON
@@ -31,11 +33,6 @@ Last Updated: Wed Jun 19 18:19:29 EDT 2019
       NBD
 ***** :: check/unitsperem_strict
       NBD
-** TODOS
-*** DONE Close old PR and open a new style PR.
-    CLOSED: [2019-05-07 Tue 17:11]
-    Old PR: https://github.com/google/fonts/pull/1743
-    New PR: https://github.com/google/fonts/pull/1967
 ** BUILD STEPS
 *** STEP 1: Run build script
    ./BUILD.sh
@@ -49,8 +46,5 @@ Last Updated: Wed Jun 19 18:19:29 EDT 2019
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
 ** NOTES
-*** DONE Pushed orbitron branch to google/fonts
-    CLOSED: [2019-05-07 Tue 11:06]
-    remote:      https://github.com/google/fonts/pull/new/orbitron
-    To github.com:google/fonts.git
-    * [new branch]        orbitron -> orbitron
+
+   1: Nothing here.
