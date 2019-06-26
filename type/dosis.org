@@ -3,8 +3,10 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
-Last Updated: Wed Jun 19 18:19:29 EDT 2019 
-[ ] Marc says OK
+Last Updated: Wed Jun 26 12:19:59 EDT 2019
+
+[*] Waiting for review
+[ ] Reviewer says OK
 [ ] Merged
 
 * DOSIS
@@ -17,7 +19,7 @@ Last Updated: Wed Jun 19 18:19:29 EDT 2019
    Old style PR:  https://github.com/google/fonts/pull/1733
    New style PR:  https://github.com/google/fonts/pull/1969 
 ** WORK STATUS
-   [ ] Need to review new style PR
+   [ ] Need to review spec update PR
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 01
