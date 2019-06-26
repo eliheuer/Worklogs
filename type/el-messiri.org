@@ -3,17 +3,25 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
+Last Updated: Wed Jun 26 14:02:15 EDT 2019
+
+[*] Pending change request 
+[ ] Waiting for review
+[ ] Reviewer says OK
+[ ] Merged
+
 * EL MESSIRI
 ** BASIC INFO
    Arabic/Latin Typeface
 ** RELEVANT LINKS
    Origin:        https://github.com/eliheuer/El-Messiri
    Upstream:      https://github.com/Gue3bara/El-Messiri 
-   GFonts:        https://fonts.google.com/specimen/El+Messiri
-   Old style PR:  None needed
-   New style PR:  https://github.com/google/fonts/pull/1961       
+   Google Fonts:  https://fonts.google.com/specimen/El+Messiri
+   PR:            https://github.com/google/fonts/pull/1961       
 ** WORK STATUS
-   Fixing build script 
+   [ ] Fixing build script
+   [ ] Updating to new spec
+   [ ] Making changes for Marc
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 02 ****
@@ -37,8 +45,6 @@
       NBD
 ***** :: check/unitsperem_strict
       NBD
-** TODOS
-*** TODO [#A] Update GF PR with fixes
 ** BUILD STEPS
 *** STEP 1: Run Build Script
     ./BUILD.sh
