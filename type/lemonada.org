@@ -3,6 +3,13 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
+Last Updated: Wed Jun 26 17:15:09 EDT 2019
+
+[ ] Pending change request 
+[ ] Waiting for review
+[ ] Reviewer says OK
+[ ] Merged
+
 * LEMONADA
 ** BASIC INFO
    Arabic/Latin typface.
@@ -10,10 +17,9 @@
    Origin:        https://github.com/eliheuer/Lemonada
    Upstream:      https://github.com/Gue3bara/Lemonada
    Google Fonts:  https://fonts.google.com/specimen/Lemonada
-   Old style PR:  None (newer project).
-   New style PR:  https://github.com/google/fonts/pull/1952
+   PR:            https://github.com/google/fonts/pull/1952
 ** WORK STATUS
-   PR needs to be updated to fix a few issues from Marc
+   [ ] PR needs to be updated to fix a few issues from Marc
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 01 ****
@@ -24,8 +30,6 @@
       NBD
 ***** :: check/unitsperem_strict
       NBD
-** TODOS
-*** TODO [#A] Update PR with fixes from Marc
 ** BUILD STEPS
 *** STEP 1: Run build script
    ./BUILD.sh
@@ -38,3 +42,7 @@
 *** Glyph Rename Script
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
+** NOTES
+
+   1: Nothing here.
+    

@@ -31,12 +31,6 @@ Last Updated: Wed Jun 26 12:19:59 EDT 2019
       NBD
 ***** TODO :: check/unitsperem_strict
       NBD
-** TODOS
-*** DONE Make a new style PR to replace old style PR
-    CLOSED: [2019-05-07 Tue 17:12]
-    I rebased the dosis-vf branch on eliheuer:fonts
-    Old PR: https://github.com/google/fonts/pull/1733
-    New PR: https://github.com/google/fonts/pull/1969
 ** BUILD STEPS
 *** STEP 1: Run Build Script
     ./BUILD.sh
@@ -49,3 +43,7 @@ Last Updated: Wed Jun 26 12:19:59 EDT 2019
 *** Glyph Rename Script
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
+** NOTES
+
+   1: Nothing here.
+    

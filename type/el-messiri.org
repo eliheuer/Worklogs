@@ -18,7 +18,7 @@ Last Updated: Wed Jun 26 14:02:15 EDT 2019
    Upstream:      https://github.com/Gue3bara/El-Messiri 
    Google Fonts:  https://fonts.google.com/specimen/El+Messiri
    PR:            https://github.com/google/fonts/pull/1961       
-** WORK STATUS
+** WORK STATUS:
    [ ] Fixing build script
    [ ] Updating to new spec
    [ ] Making changes for Marc
@@ -57,3 +57,7 @@ Last Updated: Wed Jun 26 14:02:15 EDT 2019
 *** Glyph Rename Script
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
+** NOTES
+
+   1: Nothing here.
+    
