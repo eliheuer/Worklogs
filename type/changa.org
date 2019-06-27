@@ -5,7 +5,8 @@
 
 Last Updated: Wed Jun 26 21:25:37 EDT 2019
 
-[ ] Pending change request 
+[*] First PR
+[*] Pending change request 
 [ ] Waiting for review
 [ ] Reviewer says OK
 [ ] Merged
@@ -19,8 +20,9 @@ Last Updated: Wed Jun 26 21:25:37 EDT 2019
    Google Fonts:  https://fonts.google.com/specimen/Changa
    PR:            https://github.com/google/fonts/pull/1949 
 ** WORK STATUS
-   New style PR made,
-   needs to be updated to fix a few issues. 
+   [*] New style PR                 Wed Jun 26 21:25:37 EDT 2019 
+   [ ] PR spec update               Wed Jun 26 21:25:37 EDT 2019
+   [ ] Pending change request       Wed Jun 26 21:25:37 EDT 2019
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 01
@@ -31,8 +33,6 @@ Last Updated: Wed Jun 26 21:25:37 EDT 2019
       NBD
 ***** TODO :: check/unitsperem_strict
       NBD
-** TODOS
-*** TODO [#A] Update new style PR to fix issues
 ** BUILD STEPS
 *** STEP 1: Run Build Script
     ./BUILD.sh
@@ -45,3 +45,7 @@ Last Updated: Wed Jun 26 21:25:37 EDT 2019
 *** Glyph Rename Script
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
+** NOTES
+
+   1: Nothing here.
+    
