@@ -22,7 +22,7 @@ Last Updated: Thu Jun 27 14:46:31 EDT 2019
    New style PR:  Roman:  https://github.com/google/fonts/pull/1987
                   Italic: https://github.com/google/fonts/pull/1988
 ** WORK STATUS
-   [ ] Fixing issue from Gabber      Thu Jun 27 14:46:31 EDT 2019
+   [ ] Updating to use the new spec      Thu Jun 27 14:46:31 EDT 2019
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 01 ****

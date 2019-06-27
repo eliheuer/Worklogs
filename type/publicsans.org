@@ -3,6 +3,14 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
+Last Updated: Thu Jun 27 14:46:31 EDT 2019
+
+[*] First PR
+[ ] Pending change request 
+[ ] Waiting for review
+[ ] Reviewer says OK
+[ ] Merged
+
 * PUBLICSANS
 ** BASIC INFO
    US Web Design Standards Typeface.
@@ -55,14 +63,6 @@
 ***** :: check/unitsperem_strict
       NBD: Wont fix for now
 *** ITALIC
-** TODOS
-*** DONE [#A] Close old PR
-    CLOSED: [2019-04-26 Fri 12:45]
-*** DONE [#A] Make GF-mastering branch
-    CLOSED: [2019-05-06 Mon 14:25]
-*** TODO [#A] Split PRs
-**** TODO [#A] PR Public Sans
-**** TODO [#A] PR Public Sans Italic
 ** BUILD HELPERS
 *** FontBakery
 *** Addfont
@@ -79,3 +79,5 @@
 *** Glyph Rename Script
 *** Fix Fsselection
     gftools fix-fsselection Changa-Regular.ttf --autofix
+** NOTES
+   foobar

@@ -3,6 +3,14 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
+Last Updated: Thu Jun 27 14:46:31 EDT 2019
+
+[ ] First PR
+[ ] Pending change request 
+[ ] Waiting for review
+[ ] Reviewer says OK
+[ ] Merged
+
 * SPACEGROTESK
 ** BASIC INFO
    Latin typface.
@@ -24,8 +32,6 @@
       NBD
 ***** :: check/unitsperem_strict
       NBD
-** TODOS
-*** TODO [#A] Close old style PR and open a new style PR.
 ** BUILD STEPS
 *** STEP 1: Run build script
    ./BUILD.sh
@@ -38,3 +44,5 @@
 *** Glyph Rename Script
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
+** NOTES
+   foobar

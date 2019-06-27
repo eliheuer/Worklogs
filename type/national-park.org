@@ -3,6 +3,14 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
+Last Updated: Thu Jun 27 14:46:31 EDT 2019
+
+[ ] First PR
+[ ] Pending change request 
+[ ] Waiting for review
+[ ] Reviewer says OK
+[ ] Merged
+
 * National Park
 ** BASIC INFO
    Latin typface based on the US Natinal Park
@@ -13,7 +21,7 @@
    Old style PR:  https://github.com/google/fonts/pull/1806
    New style PR:  None yet
 ** WORK STATUS
-   Needs a new style PR
+   [ ] Needs drawing work
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 01 ****
@@ -24,8 +32,7 @@
       NBD
 ***** :: check/unitsperem_strict
       NBD
-** TODOS
-*** TODO [#A] Close old style PR and open a new style PR.
+      
 ** BUILD STEPS
 *** STEP 1: Run build script
    ./BUILD.sh
@@ -38,3 +45,5 @@
 *** Glyph Rename Script
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
+** NOTES
+   foobar
