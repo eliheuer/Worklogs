@@ -5,7 +5,7 @@
 
 Last Updated: Wed Jun 26 17:15:09 EDT 2019
 
-[ ] Pending change request 
+[*] Pending change request 
 [ ] Waiting for review
 [ ] Reviewer says OK
 [ ] Merged

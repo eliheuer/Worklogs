@@ -3,14 +3,21 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
+Last Updated: Wed Jun 26 21:25:37 EDT 2019
+
+[ ] Pending change request 
+[ ] Waiting for review
+[ ] Reviewer says OK
+[ ] Merged
+
 * CHANGA
 ** BASIC INFO
    Arabic/Latin Typeface
 ** RELEVANT LINKS
    Origin:        https://github.com/eliheuer/changa-vf
    Upstream:      https://github.com/etunni/Changa 
-   GFonts:        https://fonts.google.com/specimen/Changa
-   New style PR:  https://github.com/google/fonts/pull/1949 
+   Google Fonts:  https://fonts.google.com/specimen/Changa
+   PR:            https://github.com/google/fonts/pull/1949 
 ** WORK STATUS
    New style PR made,
    needs to be updated to fix a few issues. 
