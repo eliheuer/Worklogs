@@ -3,6 +3,14 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
+Last Updated: Thu Jun 27 14:46:31 EDT 2019
+
+[*] First PR
+[ ] Pending change request 
+[ ] Waiting for review
+[ ] Reviewer says OK
+[ ] Merged
+
 * TitilliumWeb
 ** BASIC INFO
    Arabic/Latin typface.
@@ -14,10 +22,7 @@
    New style PR:  Roman:  https://github.com/google/fonts/pull/1987
                   Italic: https://github.com/google/fonts/pull/1988
 ** WORK STATUS
-   Fixing issue from Gabber... 
-** TODOS
-*** DONE [#A] Close old style PR and open a new style PR.
-    CLOSED: [2019-05-16 Thu 16:40]
+   [ ] Fixing issue from Gabber      Thu Jun 27 14:46:31 EDT 2019
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 01 ****
@@ -40,7 +45,7 @@
 
 ** BUILD STEPS
 *** STEP 1: Run build script
-   ./BUILD.sh
+    ./BUILD.sh
 ** BUILD HELPERS
 *** FontBakery
 *** Addfont

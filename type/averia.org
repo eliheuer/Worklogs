@@ -3,6 +3,14 @@
 #+EMAIL:     elih@member.fsf.org
 #+LANGUAGE:  en
 
+Last Updated: Thu Jun 27 14:46:31 EDT 2019
+
+[*] First PR
+[ ] Pending change request 
+[ ] Waiting for review
+[ ] Reviewer says OK
+[ ] Merged
+
 * Averia
 ** BASIC INFO
    Average of many fonts. 
@@ -19,8 +27,7 @@
                   averiaseriflibre italic:
 
 ** WORK STATUS
-   Still has some glyphs that need to be drawn,
-   working on this in the evenings. 
+   [ ] Still has some glyphs that need to be drawn 
 ** FONTBAKERY STATUS
 *** ROMAN
 **** FAILS 01
@@ -31,8 +38,6 @@
       NBD
 ***** :: check/unitsperem_strict
       NBD
-** TODOS
-*** TODO [#A] Make new style GF PR
 ** BUILD STEPS
 *** 1. RUN BUILD SCRIPT
     ./BUILD.sh
@@ -45,3 +50,7 @@
 *** Glyph Rename Script
 *** Fix Fsselection
     gftools fix-fsselection Font-Regular.ttf --autofix
+** NOTES
+
+   1: Work on other font PRs before this one.
+    
