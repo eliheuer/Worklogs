@@ -6,6 +6,7 @@
 Last Updated: Wed Jun 26 17:15:09 EDT 2019
 
 [*] Pending change request 
+    - There are a few major issues, lookinf for something east to work on first. 
 [ ] Waiting for review
 [ ] Reviewer says OK
 [ ] Merged
