@@ -7,3 +7,51 @@ Last Updated: Wed Jun 26 21:25:37 EDT 2019
 - [ ] Waiting for review
 - [ ] Reviewer says OK
 - [ ] Merged
+
+### Basic Info
+
+Arabic/Latin Typeface
+
+### Project Links
+
+Origin:        https://github.com/eliheuer/changa-vf
+Upstream:      https://github.com/etunni/Changa
+Google Fonts:  https://fonts.google.com/specimen/Changa
+PR:            https://github.com/google/fonts/pull/1949
+
+
+| Relevant Links | URLs                                                                                   |
+| -------------- | -------------------------------------------------------------------------------------- |
+| Origin repo    | [https://github.com/eliheuer/changa-vf](https://github.com/eliheuer/changa-vf)         |
+| Upstream repo  | [https://github.com/etunni/Changa](https://github.com/etunni/Changa)                   |
+| Google Fonts   | [https://fonts.google.com/specimen/Changa](https://fonts.google.com/specimen/Changa)   |
+| Pull request   | [https://github.com/google/fonts/pull/1949](https://github.com/google/fonts/pull/1949) |
+
+
+### Work Status
+
+- [x] New style PR
+- [ ] PR spec updated
+- [ ] Pending change request
+
+## FontBakery Status
+
+Nothing here.
+
+### Build Steps
+
+Run Build Script
+```
+./BUILD.sh
+```
+
+## Post Build Steps
+
+```
+gftools fix-fsselection Font-Regular.ttf --autofix
+```
+
+## Notes
+
+Nothing here.
+
