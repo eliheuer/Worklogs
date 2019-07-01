@@ -1,6 +1,6 @@
 # Worklog: Changa VF Mastering
 
-Last Updated: Wed Jun 26 21:25:37 EDT 2019
+Last Updated: Mon Jul 1, 2019
 
 - [x] First PR
 - [x] Pending change request
@@ -8,17 +8,11 @@ Last Updated: Wed Jun 26 21:25:37 EDT 2019
 - [ ] Reviewer says OK
 - [ ] Merged
 
-### Basic Info
+## Basic Info
 
 Arabic/Latin Typeface
 
-### Project Links
-
-Origin:        https://github.com/eliheuer/changa-vf
-Upstream:      https://github.com/etunni/Changa
-Google Fonts:  https://fonts.google.com/specimen/Changa
-PR:            https://github.com/google/fonts/pull/1949
-
+## Project Links
 
 | Relevant Links | URLs                                                                                   |
 | -------------- | :------------------------------------------------------------------------------------- |
@@ -28,7 +22,7 @@ PR:            https://github.com/google/fonts/pull/1949
 | Pull request   | [https://github.com/google/fonts/pull/1949](https://github.com/google/fonts/pull/1949) |
 
 
-### Work Status
+## Work Status
 
 - [x] New style PR
 - [ ] PR spec updated
@@ -38,7 +32,7 @@ PR:            https://github.com/google/fonts/pull/1949
 
 Nothing here.
 
-### Build Steps
+## Build Steps
 
 Run Build Script
 ```
