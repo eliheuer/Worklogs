@@ -21,7 +21,6 @@ Arabic/Latin Typeface
 | Google Fonts   | [https://fonts.google.com/specimen/Changa](https://fonts.google.com/specimen/Changa)   |
 | Pull request   | [https://github.com/google/fonts/pull/1949](https://github.com/google/fonts/pull/1949) |
 
-
 ## Work Status
 
 - [x] New style PR
