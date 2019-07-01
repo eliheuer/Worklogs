@@ -21,7 +21,7 @@ PR:            https://github.com/google/fonts/pull/1949
 
 
 | Relevant Links | URLs                                                                                   |
-| -------------- | -------------------------------------------------------------------------------------- |
+| -------------- | :------------------------------------------------------------------------------------- |
 | Origin repo    | [https://github.com/eliheuer/changa-vf](https://github.com/eliheuer/changa-vf)         |
 | Upstream repo  | [https://github.com/etunni/Changa](https://github.com/etunni/Changa)                   |
 | Google Fonts   | [https://fonts.google.com/specimen/Changa](https://fonts.google.com/specimen/Changa)   |
