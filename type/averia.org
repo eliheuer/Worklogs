@@ -13,6 +13,7 @@ Last Updated: Thu Jun 27 14:46:31 EDT 2019
 [ ] Merged
 
 * Averia
+
 ** BASIC INFO
    Average of many fonts. 
    Dev blog: http://iotic.com/averia/

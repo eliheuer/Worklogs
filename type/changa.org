@@ -16,9 +16,9 @@ Last Updated: Wed Jun 26 21:25:37 EDT 2019
    Arabic/Latin Typeface
 ** RELEVANT LINKS
    Origin:        https://github.com/eliheuer/changa-vf
-   Upstream:      https://github.com/etunni/Changa 
+   Upstream:      https://github.com/etunni/Changa
    Google Fonts:  https://fonts.google.com/specimen/Changa
-   PR:            https://github.com/google/fonts/pull/1949 
+   PR:            https://github.com/google/fonts/pull/1949
 ** WORK STATUS
    [*] New style PR                 Wed Jun 26 21:25:37 EDT 2019 
    [ ] PR spec update               Wed Jun 26 21:25:37 EDT 2019
