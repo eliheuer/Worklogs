@@ -24,7 +24,8 @@ Arabic/Latin Typeface
 ## Work Status
 
 - [x] New style PR
-- [ ] PR spec updated
+- [x] PR spec updated
+- [ ] Update upstream source repo
 - [ ] Pending change request
 
 ## FontBakery Status
