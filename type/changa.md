@@ -28,6 +28,16 @@ Arabic/Latin Typeface
 - [ ] Update upstream source repo
 - [ ] Pending change request
 
+## Worklog
+
+#### Wed July 3, 2019
+
+- [ ] Look into merging upstream.
+    - Compare Gabber's fork and mine
+    - Start a new branch for a pr back to upstream
+- [ ] Update PR to new spec
+    - Foobar
+
 ## FontBakery Status
 
 Nothing here.
