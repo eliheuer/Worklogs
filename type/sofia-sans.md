@@ -48,4 +48,8 @@ Nothing here.
 #### Thu July 25, 2019
 
 - [ ] Trying to get everything building with Fontmake
-    - Having some issues, looking at the glyphs source 
+    - [ ] Having some issues, looking at the glyphs source
+    - [x] The file names use `CYRILLIC CAPITAL LETTER EM U+041C`
+      changed to `LATIN CAPITAL LETTER M U+004D`
+
+
