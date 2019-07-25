@@ -1,59 +1,42 @@
-# Worklog: Changa VF Mastering
+# Worklog: Sofia Sans
 
-Last Updated: Mon Jul 3, 2019
-
-- [x] First PR
-- [x] Pending change request
-- [ ] Waiting for review
-- [ ] Reviewer says OK
-- [ ] Merged
+Last Updated: Thu July 25
 
 ## Table of Contents
 
 * [Basic Info](#basic-info)
-* [Project Link](#project-links)
+* [Project Links](#project-links)
 * [Work Status](#work-status)
 * [FontBakery Status](#fontbakery-status)
-* [Build Steps](#build-steps)
-* [Post Build Steps](#post-build-steps)
 * [Notes](#notes)
 * [Worklog](#Worklog)
 
 ## Basic Info
 
-Arabic/Latin Typeface
+Latin Typeface
 
-## Project Links
+## Proving some issueject Links
 
 | Relevant Links | URLs                                                                                   |
 | -------------- | :------------------------------------------------------------------------------------- |
-| Origin repo    | [https://github.com/eliheuer/changa-vf](https://github.com/eliheuer/changa-vf)         |
-| Upstream repo  | [https://github.com/etunni/Changa](https://github.com/etunni/Changa)                   |
-| Google Fonts   | [https://fonts.google.com/specimen/Changa](https://fonts.google.com/specimen/Changa)   |
-| Pull request   | [https://github.com/google/fonts/pull/1949](https://github.com/google/fonts/pull/1949) |
+| Origin repo    | [https://github.com/lettersoup/Sofia-Sans](https://github.com/lettersoup/Sofia-Sans)   |
+| Forked repo    | [https://github.com/eliheuer/Sofia-Sans](https://github.com/eliheuer/Sofia-Sans)       |
+| Google Fonts   | [Nothing yet](https://fonts.google.com)                                                |
+| Pull request   | [Nothing yet](https://github.com/google/fonts/pull)                                    |
 
 ## Work Status
 
-- [x] New style PR
-- [x] PR spec updated
-- [ ] Update upstream source repo
-- [ ] Pending change request
+- [ ] Working on a build script
 
 ## FontBakery Status
 
 Nothing here.
 
 ## Build Steps
-
-Run Build Script
+Run build script from the `sources` directory
 ```
-./BUILD.sh
-```
-
-## Post Build Steps
-
-```
-gftools fix-fsselection Font-Regular.ttf --autofix
+cd sources
+sh build.sh
 ```
 
 ## Notes
@@ -62,10 +45,7 @@ Nothing here.
 
 ## Worklog
 
-#### Wed July 3, 2019
+#### Thu July 25, 2019
 
-- [ ] Look into merging upstream.
-    - Compare Gabber's fork and mine
-    - Start a new branch for a pr back to upstream
-- [ ] Update PR to new spec
-    - Foobar
+- [ ] Trying to get everything building with Fontmake
+    - Having some issues, looking at the glyphs source 
