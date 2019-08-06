@@ -34,11 +34,11 @@ Latin Typeface
 #### Tue Aug 6, 2019
 
 - [ ] Fixing error: Can't find base (neutral) master in DesignSpace document
-- [ ] Note from group chat:
+- Note from group chat:
     - when you define an axis in a designspace, you say min, max, default
-    the "default" must be the value of that axis on one of the sources. E.g. if you set the wght default to 400, you must have a source that is wght=400
-    so, often if you have light and bold masters, you'll need to set the default to be either light or bold. That is the basic set of glyf coordinates, and then the other sources are used for gvar deltas (as far as i understand it – I may not be 100% technically perfect on that description)
-    SN
+    - the "default" must be the value of that axis on one of the sources. E.g. if you set the wght default to 400, you must have a source that is wght=400
+    - so, often if you have light and bold masters, you'll need to set the default to be either light or bold. That is the basic set of glyf coordinates, and then the other sources are used for gvar deltas (as far as i understand it – I may not be 100% technically perfect on that description)
+    - SN
 
 #### Thu July 25, 2019
 
