@@ -1,4 +1,4 @@
-# Worklog:
+# Worklog: Changa
 
 Last Updated: Tue Aug 28th
 
@@ -7,30 +7,35 @@ Last Updated: Tue Aug 28th
 * [Basic Info](#basic-info)
 * [Project Links](#project-links)
 * [Work Status](#work-status)
-* [Worklog](#Worklog)
+* [Worklog](#worklog)
 * [FontBakery Status](#fontbakery-status)
 * [Notes](#notes)
 
 ## Basic Info
 
-Foo Bar
+Arabic/Latin Typeface
 
-## Main Links
+## Project Links
 
 | Main Links     | URLs                                                                                   |
 | -------------- | :------------------------------------------------------------------------------------- |
-| Origin repo    | [https://github.com/lettersoup/Sofia-Sans](https://github.com/lettersoup/Sofia-Sans)   |
-| Forked repo    | [https://github.com/eliheuer/Sofia-Sans](https://github.com/eliheuer/Sofia-Sans)       |
-| Google Fonts   | [Nothing yet](https://fonts.google.com)                                                |
-| Pull request   | [Nothing yet](https://github.com/google/fonts/pull)                                    |
+| Hard fork      | [https://github.com/eliheuer/changa-vf](https://github.com/eliheuer/changa-vf)         |
+| Soft fork      | [https://github.com/eliheuer/Changa](https://github.com/eliheuer/Changa)               |
+| Upstream repo  | [https://github.com/etunni/Changa](https://github.com/etunni/Changa)                   |
+| Google Fonts   | [https://fonts.google.com/specimen/Changa](https://fonts.google.com/specimen/Changa)   |
+| Pull request   | [https://github.com/google/fonts/pull/1949](https://github.com/google/fonts/pull/1949) |
 
 ## Work Status
 
+- [ ] Done
+- [ ] Marc requested a PR back to the upstream project
 - [x] Working on a build script
 
 ## Worklog
 
-### Day, 2019
+### Wednesday August 28th, 2019
+
+- [ ] Looking into an upstream PR
 
 ## FontBakery Status
 
