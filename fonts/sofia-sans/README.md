@@ -1,6 +1,6 @@
 # Worklog: Sofia Sans
 
-Last Updated: Tue Aug 7th
+Last Updated: Tue Aug 28th
 
 ## Table of Contents
 
@@ -26,11 +26,18 @@ Latin Typeface
 
 ## Work Status
 
-- [ ] Fixing error: Can't find base (neutral) master in DesignSpace document
-- [ ] Working on a build script
+- [x] Fixing error: Can't find base (neutral) master in DesignSpace document
+- [x] Working on a build script
 
 ## Worklog
 
+#### Wed Aug 28, 2019
+
+- Helpful Links
+    - https://forum.glyphsapp.com/t/avar-axis-mappings/12425/8
+    - https://forum.glyphsapp.com/t/generating-an-avar-table/9337/3
+    - https://docs.microsoft.com/en-us/typography/opentype/spec/avar
+    - https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had
 
 #### Wed Aug 7, 2019
 
@@ -71,5 +78,6 @@ Latin Typeface
 Nothing here.
 
 ## Notes
+
 
 Nothing here.

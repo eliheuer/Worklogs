@@ -1,5 +1,12 @@
 # Fontmake issues
 
+New error: cu2qu.errors.IncompatibleFontsError: fonts contains incompatible glyphs: 'blackLargeCircle', 'largeCircle'
+blackLargeCircle was noninterp, fixed it in temp.
+
+Ok maybe I should fix the problem glyphs?
+
+Sofia_Sans_vf has junk taken out(zhe, ka), but is otherwise clean.
+
 Fixing infinate recurion issue:
 
 Python debug code: /Py/emode/defcon/Lib/defcon/objects/glyph.py
@@ -13,14 +20,13 @@ Python debug code: /Py/emode/defcon/Lib/defcon/objects/glyph.py
             self.dirty = True
         print("DEBUG (value):", value)
 ```
-Thus
+
 ```
 Problem glyphs:
 
 DEBUG (value): zhe-cy
 DEBUG (value): ka-cy
 ```
-
 
 ### Notes on issues: 
 https://github.com/thundernixon/Encode-Sans/tree/master/docs/01-morphing-non-rect-designspace
