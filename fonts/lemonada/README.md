@@ -1,9 +1,7 @@
 # Worklog: Lemonada
-
-Last Updated: Tue Aug 28th
+Last Updated: Thu Aug 29th
 
 ## Table of Contents
-
 * [Basic Info](#basic-info)
 * [Project Links](#project-links)
 * [Work Status](#work-status)
@@ -12,11 +10,9 @@ Last Updated: Tue Aug 28th
 * [Notes](#notes)
 
 ## Basic Info
-
 Arabic/Latin Typeface
 
 ## Project Links
-
 | Main Links     | URLs                                                                                     |
 | -------------- | :--------------------------------------------------------------------------------------- |
 | Origin repo    | [https://github.com/eliheuer/Lemonada](https://github.com/eliheuer/Lemonada)             |
@@ -25,20 +21,19 @@ Arabic/Latin Typeface
 | Pull request   | [https://github.com/google/fonts/pull/1952](https://github.com/google/fonts/pull/1952)   |
 
 ## Work Status
-
-- [ ] Done
-- [ ] PR needs to be updated to fix a few issues from Marc
+- [ ] Merged
+- [ ] PR needs to be updated to fix a few issues from Marc (in progress)
 
 ## Worklog
 
-### Wednesday August 28th, 2019
+### Thursday August 29th, 2019
+- [ ] Update PR with reguested fixes
 
-- [x] Moved worklog
+### Wednesday August 28th, 2019
+- [x] Move worklog
 
 ## FontBakery Status
-
 Nothing here.
 
 ## Notes
-
 gftools fix-fsselection Font-Regular.ttf --autofix
