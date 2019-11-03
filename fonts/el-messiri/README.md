@@ -1,6 +1,6 @@
-# Worklog: 
+# Worklog: El Messiri
 
-Last Updated: Tue Aug 28th
+Last Updated: Tue Sept 17th
 
 ## Table of Contents
 
@@ -25,14 +25,23 @@ Arabic/Latin Typeface
 | Pull request   | [https://github.com/google/fonts/pull/1961](https://github.com/google/fonts/pull/1961)       |
 
 ## Work Status
-
-- [ ] Done
 - [ ] PR needs to be updated to fix a few issues from Marc
 
 ## Worklog
 
-### Wednesday August 28th, 2019
+### Thursday September 19th, 2019
+- [x] Add build script from lemonada
+- [x] Updated PR 
+- [ ] Fixing FB iisues
+- [ ] Fixing issues from marc
 
+### Wednesday September 18th, 2019
+- [x] Add build script from lemonada
+
+### Tuesday September 17th, 2019
+- [x] Starting work again after inactivity
+
+### Wednesday August 28th, 2019
 - [x] Moved worklog
 
 ## FontBakery Status

@@ -1,10 +1,10 @@
-# Worklog: Public Sans
+# Worklog: Cascadia Code
 
-Last Updated: Tue Oct 15th 2019
+Last Updated: Tue Oct 29th 2019
 
 ## Basic Info
 
-Latin Typeface from the USWS
+Monospace Typeface from microsoft
 
 ## Project Links
 
@@ -19,7 +19,8 @@ Latin Typeface from the USWS
 ## Work Status
 
 - [ ] Done
-- [ ] Rebuilding for new PR
+- [ ] Development
+- [ ] Review
 
 ## Worklog
 
