@@ -17,7 +17,14 @@ Arabic/Latin Typeface
 - [x] Changes requested
 
 ## Worklog
+### Sunday November 3rd, 2019
+```
 
+Reviewing latest proofs
+
+
+
+```
 ### Wednesday October 30th, 2019
 ```
 small proofing edits
