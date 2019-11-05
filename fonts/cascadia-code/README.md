@@ -1,46 +1,35 @@
 # Worklog: Cascadia Code
-
-Last Updated: Tue Oct 29th 2019
+```
+Last Updated:       Tuesday November 5th 2019
+Progress Estimate:  20%
+```
 
 ## Basic Info
-
-Monospace Typeface from microsoft
+Monospace Typeface from Microsoft, used for Windows Terminal.
 
 ## Project Links
-
-| Main Links     | URLs                                                                                   |
-| -------------- | :------------------------------------------------------------------------------------- |
-| Hard fork      | [None Yet](None Yet)                                                                   |
-| Soft fork      | [https://github.com/eliheuer/public-sans](https://github.com/eliheuer/public-sans)     |
-| Upstream repo  | [https://github.com/uswds/public-sans](https://github.com/uswds/public-sans)           |
-| Google Fonts   | [https://fonts.google.com/specimen/Changa](https://fonts.google.com/specimen/Changa)   |
-| Pull request   | [https://github.com/google/fonts/pull/1949](https://github.com/google/fonts/pull/1949) |
+| Relevant Links             | URLs                                                                                     |
+| ------------------         | :--------------------------------------------------------------------------------------- |
+| Working Git Repository     | [https://github.com/eliheuer/cascadia-code](https://github.com/eliheuer/cascadia-code)   |
+| Upstream Git Repository    | [https://github.com/microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) |
+| Google Fonts Page          | [None Yet](https://fonts.google.com)                                                     |
+| Google/fonts Pull Request  | [None Yet](https://github.com/google/fonts/pull/aaaa)                                    |
 
 ## Work Status
-
-- [ ] Done
-- [ ] Development
-- [ ] Review
+- [ ] Merged to [google/fonts](https://github.com/google/fonts)
+- [ ] Changes requested on [github](https://github.com/google/fonts/pull/aaaa)
 
 ## Worklog
-
-### Week of October 21st
-- [ ] Weight Classes:
-    Changed ExtraLight from 275 to 200 and Thin from 250 to 100 in 'gf-pr' fork
-
-- [x] Made issue for wght class change updtream
-    https://github.com/uswds/public-sans/issues/119
-
-- [x] updated roman pr, now ready for merge AFAICT
-    https://github.com/google/fonts/pull/2009
-
-- [ ] updated roman pr, now ready for merge AFAICT
-    https://github.com/google/fonts/pull/2009
-
-### Week of October 14th
-- [ ] Glyphs:
-    - [x] The gaf bar is still broken.
+### Tuesday November 5th, 2019
+```
+More basic repo review 
+```
 
 ## Notes
+```
+MERGE TARGET
+------------
+Character Set: Google Latin Core
+Variations:    400
+```
 
-Nothing here.
