@@ -1,28 +1,48 @@
 # Worklog: Lemonada
-Last Updated: Sunday November 3rd
+Last Updated: Tuesday November 5th
 
 ## Basic Info
 Arabic/Latin Typeface
 
 ## Project Links
-| Relevant Links     | URLs                                                                                     |
-| ------------------ | :--------------------------------------------------------------------------------------- |
-| Origin repo        | [https://github.com/eliheuer/Lemonada](https://github.com/eliheuer/Lemonada)             |
-| Upstream repo      | [https://github.com/Gue3bara/Lemonada](https://github.com/Gue3bara/Lemonada)             |
-| Google Fonts       | [https://fonts.google.com/specimen/Lemonada](https://fonts.google.com/specimen/Lemonada) |
-| Pull request       | [https://github.com/google/fonts/pull/1952](https://github.com/google/fonts/pull/1952)   |
+| Relevant Links             | URLs                                                                                     |
+| ------------------         | :--------------------------------------------------------------------------------------- |
+| Working Git Repository     | [https://github.com/eliheuer/Lemonada](https://github.com/eliheuer/Lemonada)             |
+| Upstream Git Repository    | [https://github.com/Gue3bara/Lemonada](https://github.com/Gue3bara/Lemonada)             |
+| Google Fonts Page          | [https://fonts.google.com/specimen/Lemonada](https://fonts.google.com/specimen/Lemonada) |
+| Google/fonts Pull Request  | [https://github.com/google/fonts/pull/1952](https://github.com/google/fonts/pull/1952)   |
 
 ## Work Status
-- [ ] Merged to [google/fonts](https://github.com/google/fonts)
-- [x] Changes requested
+- [x] Merged to [google/fonts](https://github.com/google/fonts)
+- [ ] Changes requested on [github](https://github.com/google/fonts/pull/1952)
 
 ## Worklog
-### Sunday November 3rd, 2019
+### Tuesday November 5th, 2019
 ```
 
-Reviewing latest proofs
+Pull request was merged!
 
+Built with ttfautohint setting: --stem-width-mode=nnn
 
+To rebuild, clone this repo:
+
+https://github.com/eliheuer/Lemonada/tree/gf-update
+@ commit: ef5b2a24ed9966433fb10d652e638909ed86120b
+
+And, then run the following line from the root directory:
+
+sources/scripts/build.sh && sources/scripts/pull-request.sh
+
+```
+### Monday November 4th, 2019
+```
+REVIEWING LATEST PROOFS:
+
+[ ] --stem-width-mode=nnn
+    - Notes:looks ok but not great, matve better than deafault.
+    - What are the other options?
+    - There is too much weight change in Waterfall Desktop_Windows_10_firefox_62.0_.gif
+    - Waterfall Desktop_OS_X_High_Sierra_safari_11.1_.gif looks okish.
 
 ```
 ### Wednesday October 30th, 2019
