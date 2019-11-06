@@ -1,9 +1,9 @@
 Working on:
-
-Casadia Code    --  Reviewing repo
-Chomsky         --  Needs repo review
-Bluu Next       --  Waiting for open repo
-Syne            --
-Junicode        --
-Biolinum        --
-Pilowlava       --
+-----------------------------------------------------------------------
+Casadia Code  --  Reviewing repo         --  ~/Type/forks/cascadia-code
+Chomsky       --  Needs repo review      --  ~/Type/forks/chomsky
+Bluu Next     --  Waiting for open repo  --  ~/*
+Syne          --  Repo needs review      --  ~/Gitlab/syne-typeface
+Junicode      --  Repo needs review      --  ~/*
+Biolinum      --  Repo needs review      --  ~/*
+Pilowlava     --  Repo needs review      --  ~/*
