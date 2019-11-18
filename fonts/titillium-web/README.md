@@ -1,41 +1,35 @@
-# Worklog:
-
-Last Updated: Tue Aug 28th
-
-## Table of Contents
-
-* [Basic Info](#basic-info)
-* [Project Links](#project-links)
-* [Work Status](#work-status)
-* [Worklog](#Worklog)
-* [FontBakery Status](#fontbakery-status)
-* [Notes](#notes)
+# Worklog: Titillium Web
+```
+Last Updated:       Monday November 18th 2019
+Progress Estimate:  90%
+```
 
 ## Basic Info
+Arabic/Latin Typeface
 
-Foo Bar
-
-## Main Links
-
-| Main Links     | URLs                                                                                   |
-| -------------- | :------------------------------------------------------------------------------------- |
-| Origin repo    | [https://github.com/lettersoup/Sofia-Sans](https://github.com/lettersoup/Sofia-Sans)   |
-| Forked repo    | [https://github.com/eliheuer/Sofia-Sans](https://github.com/eliheuer/Sofia-Sans)       |
-| Google Fonts   | [Nothing yet](https://fonts.google.com)                                                |
-| Pull request   | [Nothing yet](https://github.com/google/fonts/pull)                                    |
+## Project Links
+| Relevant Links             | URLs                                                                                                |
+| ------------------         | :-------------------------------------------------------------------------------------------        |
+| Working Git Repository     | [https://github.com/eliheuer/titillium-web-vf](https://github.com/eliheuer/titillium-web-vf)        |
+| Upstream Git Repository    | [https://github.com/Gue3bara/Cairo](https://github.com/Gue3bara/Cairo)                              |
+| Google Fonts Page          | [https://fonts.google.com/specimen/Titillium+Web](https://fonts.google.com/specimen/Titillium+Web)  |
+| GF Pull Request Roman      | [https://github.com/google/fonts/pull/1987](https://github.com/google/fonts/pull/1987)                                               |
+| GF Pull Request Italic     | [https://github.com/google/fonts/pull/1988](https://github.com/google/fonts/pull/1988)                                               |
 
 ## Work Status
+- [ ] Merged to [google/fonts](https://github.com/google/fonts)
+- [x] Changes requested on [github](https://github.com/google/fonts/pull/1987)
 
-- [x] Working on a build script
+## TODO List
+- [ ] Update the PR to google/fonts
 
 ## Worklog
-
-### Day, 2019
-
-## FontBakery Status
-
-Nothing here.
+### Monday November 19th
+```
+Updating PR for Marc
+```
 
 ## Notes
-
+```
 Nothing here.
+```
