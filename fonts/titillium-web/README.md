@@ -1,6 +1,6 @@
 # Worklog: Titillium Web
 ```
-Last Updated:       Monday November 18th 2019
+Last Updated:       Monday December 2nd, 2019
 Progress Estimate:  90%
 ```
 
@@ -13,8 +13,8 @@ Arabic/Latin Typeface
 | Working Git Repository     | [https://github.com/eliheuer/titillium-web-vf](https://github.com/eliheuer/titillium-web-vf)        |
 | Upstream Git Repository    | [https://github.com/Gue3bara/Cairo](https://github.com/Gue3bara/Cairo)                              |
 | Google Fonts Page          | [https://fonts.google.com/specimen/Titillium+Web](https://fonts.google.com/specimen/Titillium+Web)  |
-| GF Pull Request Roman      | [https://github.com/google/fonts/pull/1987](https://github.com/google/fonts/pull/1987)                                               |
-| GF Pull Request Italic     | [https://github.com/google/fonts/pull/1988](https://github.com/google/fonts/pull/1988)                                               |
+| GF Pull Request Roman      | [https://github.com/google/fonts/pull/1987](https://github.com/google/fonts/pull/1987)              |
+| GF PR Italic (closed)      | [https://github.com/google/fonts/pull/1988](https://github.com/google/fonts/pull/1988)              |
 
 ## Work Status
 - [ ] Merged to [google/fonts](https://github.com/google/fonts)
@@ -24,7 +24,21 @@ Arabic/Latin Typeface
 - [ ] Update the PR to google/fonts
 
 ## Worklog
-### Monday November 19th
+
+### Monday December 2nd
+```
+Updated build script with:
+sources/scripts/helpers/remove-mvar-table.py
+```
+
+### Tuesday November 19th
+```
+Moved Italic to Regular PR
+Updated PR
+Need to fix issues
+```
+
+### Monday November 18th
 ```
 Updating PR for Marc
 ```
