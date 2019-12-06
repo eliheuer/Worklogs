@@ -1,6 +1,6 @@
 # Worklog: Titillium Web
 ```
-Last Updated:       Monday December 2nd, 2019
+Last Updated:       Thu Dec 5th, 16:10:30 EST 2019
 Progress Estimate:  90%
 ```
 
@@ -22,11 +22,31 @@ Arabic/Latin Typeface
 
 ## TODO List
 - [ ] Update the PR to google/fonts
+- [ ] Keep the GitHub repo updated
 
 ## Worklog
 
+### Friday December 6th
+```
+Repo cleaned up
+```
+
+### Wednesday December 4nd
+```
+Updated the repo:
+New README image
+Cleaned up README copy
+
+Updated build script with:
+sources/scripts/helpers/remove-mvar-table.py
+```
+
 ### Monday December 2nd
 ```
+Updated the repo:
+New README image
+Cleaned up README copy
+
 Updated build script with:
 sources/scripts/helpers/remove-mvar-table.py
 ```
